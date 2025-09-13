@@ -1,2 +1,3 @@
-# scheduling-with-ai
-A repo for a Coding-IDE based scheduler
+# AI Task Scheduler Template
+
+> "The way to get started is to quit talking and begin doing" – Walt Disney
